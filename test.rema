@@ -1,0 +1,22 @@
+@inc("python_tkinter")
+
+void test($main, $secondary){
+	printScreen($main)
+	printScreen($secondary)
+}
+
+const Screen(){
+	void init(){
+		printScreen("Constructor Screen")
+	}
+	void hello(){
+		printScreen("CF: Hello")
+	}
+}
+
+void main(){
+	printScreen("Hello, World!")
+	printScreen("I am Being Print from the main function")
+
+	void test("Test", "Second Test")
+}

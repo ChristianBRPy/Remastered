@@ -1,0 +1,6 @@
+public import <"screen.rema">
+
+void main(){
+	screen = new ScreenControl()
+	screen.display_name("Remastered - Test")
+}

@@ -1,0 +1,10 @@
+void second($hi, $bye){
+	printScreen($hi)
+	printScreen($bye)
+}
+
+void main(){
+	printScreen("Hello, World!")
+
+	void second("Hey There!,", "Bye!")
+}
