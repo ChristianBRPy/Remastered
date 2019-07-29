@@ -1,4 +1,4 @@
-![Remastered](./remastered.png)
+![Remastered](./remastered.png) <br>
 A Work in progress remastered, dynamically-typed version of c++ using python.
 
 ## Todo
